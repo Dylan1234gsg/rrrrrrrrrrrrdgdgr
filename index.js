@@ -7,7 +7,7 @@ const axios = require('axios')
 const random = require('randomstring');
 
 
-const token = 'Your Bot Token Here';
+const token = 'MTEyMTQwMjcxNTc1OTcxMDIyOA.GmLOsP.Ru_zeQRT4opUNBw2nfa_j6YDscch6kWDKE3zg4';
 
 const prefix = '!';
 
